@@ -74,4 +74,4 @@ Predicting churn is a fact of life for any subscription business, and even sligh
 
 # External links for further explaination:
 
-- Medium article for explaining the project
+- [Medium article for explaining the project](https://medium.com/@rohit18115/we-will-make-you-stick-customer-churn-prediction-with-pyspark-677fd17cf915)
