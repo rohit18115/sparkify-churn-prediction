@@ -72,6 +72,6 @@ Predicting churn is a fact of life for any subscription business, and even sligh
 - user_dataset.csv (feature engineered dataset, reduced and condensed version of the full dataset)
 - user_dataset_full.csv (full dataset)
 
-# External links for further explaination:
+# External links for further explainations:
 
 - [Medium article for explaining the project](https://medium.com/@rohit18115/we-will-make-you-stick-customer-churn-prediction-with-pyspark-677fd17cf915)
